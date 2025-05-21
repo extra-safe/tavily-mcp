@@ -42,13 +42,14 @@
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "0.6.0",
-    "dotenv": "^16.4.5",
     "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
     "@types/node": "^20.11.24",
     "@types/yargs": "^17.0.32",
-    "typescript": "^5.3.3"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   }
 }
